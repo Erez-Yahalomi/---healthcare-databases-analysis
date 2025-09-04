@@ -1,3 +1,4 @@
 #                                                                                                                                          קוד על ידי ארז יהלומי    healthcare databases analysis  
- <img width="1654" height="2339" alt="Image" src="https://github.com/user-attachments/assets/0c274500-fd7b-4e9b-919a-9cc2068edd6c" />
-<img width="1654" height="2339" alt="Image" src="https://github.com/user-attachments/assets/847af6f4-ce64-4d48-a03e-ecc5fc0f2891" />
+ ![Image](https://github.com/user-attachments/assets/2c5080fd-0dc9-47c2-9a61-eaeff387be4b)
+
+![Image](https://github.com/user-attachments/assets/f9282357-b0cb-4cb5-8732-c136d7c8dafb)
